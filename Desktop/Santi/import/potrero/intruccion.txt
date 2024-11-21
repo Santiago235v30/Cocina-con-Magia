@@ -1,0 +1,12 @@
+echo "# Cocina-con-Magia" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Santiago235v30/Cocina-con-Magia.git
+git push -u origin main
+
+
+tar xzf project.tar.gz
+cd project
+ git init
